@@ -31,7 +31,7 @@
 - Install pip by :
 `sudo pip3 install -U pip`
 - Clone the repository by :
-`git clone https://github.com/rajeshrakis/ManagementBot && cd FallenRobot`
+`git clone https://github.com/rajeshrakis/ManagementBot && cd ManagementBot`
 - Install/Upgrade setuptools by :
 `pip3 install --upgrade pip setuptools`
 - Install requirements by :
