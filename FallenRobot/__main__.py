@@ -84,7 +84,7 @@ PM_START_TEXT = """
 buttons = [
     [
         InlineKeyboardButton(
-            text="👅 𝘼𝘿𝘿 𝙈𝙀 𝙏𝙊 𝙔𝙊𝙐𝙍 𝙂𝙍𝙊𝙐𝙋 👀",
+            text="🦋 𝘼𝘿𝘿 𝙈𝙀 𝙏𝙊 𝙔𝙊𝙐𝙍 𝙂𝙍𝙊𝙐𝙋 🦋",
             url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
         ),
     ],
@@ -92,12 +92,12 @@ buttons = [
         InlineKeyboardButton(text="🦋 HELP AND COMMANDS 🦋", callback_data="help_back"),
     ],
     [
-        InlineKeyboardButton(text="🎀 ABOUT BOT 🎀", callback_data="fallen_"),
-        InlineKeyboardButton(text="💜 OWNER 💜", url=f"https://t.me/{SUPPORT_CHAT}"),
+        InlineKeyboardButton(text="🦋 ABOUT BOT 🦋", callback_data="fallen_"),
+        InlineKeyboardButton(text="🦋 OWNER 🦋", url=f"tg://user?id={OWNER_ID}"),
     ],
     [
-        InlineKeyboardButton(text="👅 SUPPORT 👅", url=f"tg://user?id={OWNER_ID}"),
-        InlineKeyboardButton(text="👄 UPDATES 👄", callback_data="source_"),
+        InlineKeyboardButton(text="🦋 SUPPORT 🦋", url=f"https://t.me/{SUPPORT_CHAT}"),
+        InlineKeyboardButton(text="🦋 UPDATES 🦋", callback_data="source_"),
     ],
 ]
 
