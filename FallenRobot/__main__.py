@@ -205,7 +205,7 @@ def start(update: Update, context: CallbackContext):
         else:
             first_name = update.effective_user.first_name
             update.effective_message.reply_sticker(
-                "CAACAgUAAxkBAAPqZD_IAWWd8hmp3P7tp5EKaYDPAuoAAkUEAALdwmFV7jZnNf-iSVkvBA"
+                "CAACAgUAAxkBAAEKY25lEY8HkgtlrG_B-Uxv9VQ0LQABSGkAAhsMAAK0f4hUTH62oARV6TYwBA"
             )
             update.effective_message.reply_text(
                 PM_START_TEXT.format(escape_markdown(first_name), BOT_NAME),
