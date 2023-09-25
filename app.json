@@ -9,7 +9,7 @@
          "manager",
          "Fallen"
       ],   
-   "repository": "https://github.com/rajeshrakis/Management",
+   "repository": "https://github.com/rajeshrakis/ManagementBot",
    "stack": "heroku-22",
    "addons": [
       {
